@@ -8,4 +8,4 @@ Python Pygame sodar:
   4.run the script
   
   Forgive me !My first github project,take 2 hours do the annotation,lol.My poor English,and my poor programming coding skills.Enjoy it!
-Any question,can wechat me:magiclongg
+Any question, can wechat me:magiclongg
