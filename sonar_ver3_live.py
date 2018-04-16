@@ -33,6 +33,7 @@ if __name__=='__main__':
         Yellow=[200,140,0]
         pygame.display.init()     
         while 1:
+            #update screen to black
             screen.fill([0, 0, 0])
             pygame.display.flip()
             start_angle=0
